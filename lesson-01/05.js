@@ -8,6 +8,7 @@ switch (true) {
         break;
     default:
         console.log("У меня 100 пудов все получится");
+
 }
 
 
