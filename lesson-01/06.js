@@ -1,5 +1,6 @@
 let str = "zzzzyzz";
-console.log(str.includes("y") ? 'нашел' : 'заблудился');
+let str1 = str.includes("y") ? 'нашел' : 'заблудился'
+console.log(str1);
 
 
 
